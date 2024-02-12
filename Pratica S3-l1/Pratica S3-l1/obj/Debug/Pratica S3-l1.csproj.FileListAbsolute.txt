@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\obj\Debug\Pratica S3-l1.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\obj\Debug\Pratica S3-l1.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\bin\Debug\Pratica S3-l1.exe.config
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\bin\Debug\Pratica S3-l1.exe
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\bin\Debug\Pratica S3-l1.pdb
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\obj\Debug\Pratica S3-l1.exe
+C:\Users\Luigi\Desktop\EPICODE\Corso\Back-end\1° Mese\3° Settimana\D1\Pratica S3-l1\Pratica S3-l1\obj\Debug\Pratica S3-l1.pdb
